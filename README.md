@@ -1,4 +1,4 @@
-# Poké Universe 🌐
+# Poké Universe 
 
 > **Projeto acadêmico desenvolvido para a disciplina de Web Programming Front End (2025/2026).**
 
